@@ -24,7 +24,7 @@ Lightweight, open-source desktop automation for Claude Cowork, Claude Code, or a
 
 ```bash
 # 1. Clone or download
-git clone https://github.com/nichochar/soar-desktop-mcp.git
+git clone https://github.com/soardesignjimmy/soar-desktop-mcp.git
 cd soar-desktop-mcp
 
 # 2. Install
