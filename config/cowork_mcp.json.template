@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "soar-desktop": {
+      "command": "CMD_PATH\\run_mcp.bat"
+    }
+  }
+}
