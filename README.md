@@ -97,7 +97,3 @@ run_mcp.bat      <- Launcher
 
 MIT License - (c) 2026 Soar Design (Jimmy Kwok)
 
-## Links
-
-- Website: [soarmcpsoftware.com](https://soarmcpsoftware.com)
-- SOAR MCP Products: AutoCAD, Revit, Inventor, Word, Excel, PowerPoint, 3ds Max, Blender, Phot
