@@ -4,6 +4,11 @@ Control any Windows application through the Accessibility Tree via Model Context
 
 Lightweight, open-source desktop automation for Claude Cowork, Claude Code, or any MCP-compatible AI client.
 
+> **Install in one line** — open PowerShell and paste:
+> ```powershell
+> irm https://raw.githubusercontent.com/soardesignjimmy/soar-desktop-mcp/main/install-remote.ps1 | iex
+> ```
+
 ## Features
 
 | Tool | Description |
