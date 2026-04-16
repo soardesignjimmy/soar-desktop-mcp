@@ -22,15 +22,22 @@ Lightweight, open-source desktop automation for Claude Cowork, Claude Code, or a
 
 ## Quick Start
 
+### One-Line Install (recommended)
+
+Open PowerShell and paste:
+
+```powershell
+irm https://raw.githubusercontent.com/soardesignjimmy/soar-desktop-mcp/main/install-remote.ps1 | iex
+```
+
+This downloads, installs, and configures everything automatically to `%USERPROFILE%\soar-desktop-mcp`.
+
+### Manual Install
+
 ```bash
-# 1. Clone or download
 git clone https://github.com/soardesignjimmy/soar-desktop-mcp.git
 cd soar-desktop-mcp
-
-# 2. Install
 install.bat
-
-# 3. Add to Claude Cowork / Claude Code config
 ```
 
 Add to your MCP config:
@@ -88,4 +95,4 @@ MIT License - (c) 2026 Soar Design (Jimmy Kwok)
 ## Links
 
 - Website: [soarmcpsoftware.com](https://soarmcpsoftware.com)
-- SOAR MCP Products: AutoCAD, Revit, Inventor, Word, Excel, PowerPoint, 3ds Max, Blender, Photoshop
+- SOAR MCP Products: AutoCAD, Revit, Inventor, Word, Excel, PowerPoint, 3ds Max, Blender, Phot
