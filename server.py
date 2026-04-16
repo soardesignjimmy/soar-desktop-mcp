@@ -12,7 +12,7 @@ Lightweight desktop UI automation via Windows Accessibility Tree.
 
 Open Source - MIT License
 (c) 2026 Soar Design (Jimmy Kwok)
-https://github.com/nichochar/soar-desktop-mcp
+https://github.com/soardesignjimmy/soar-desktop-mcp
 """
 
 from __future__ import annotations
